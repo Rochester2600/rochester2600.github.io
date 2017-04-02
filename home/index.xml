@@ -6,8 +6,26 @@
     <description>Recent content in Home on Rochester 2600</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.rochester2600.com/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Meeting 4/7/2017 BSidesROC Edition</title>
+      <link>https://www.rochester2600.com/home/04-07-2017/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/home/04-07-2017/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;images/2600_bsidesroc2017.png&#34;&gt;&lt;img src=&#34;https://www.rochester2600.com/images/2600_bsidesroc2017.png&#34; alt=&#34;2600&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Get ready for a metric fuck-ton of pride and prejudice as we put our ear
+to the ground about a corpus of utterance tokens between hate and fear .
+This will be done via presentations below:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;AntiTree: This month in infosec&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Meeting 3/3/2017 Amusing Ourselves To Death Edition</title>
@@ -327,18 +345,6 @@ talks:&lt;/p&gt;
 &lt;li&gt;x56: Something To Disclose&lt;/li&gt;
 &lt;li&gt;All: Black Elephant Gift Sharing&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Meeting 1/1/2016: Cancelled</title>
-      <link>https://www.rochester2600.com/home/1-1-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.rochester2600.com/home/1-1-2016/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;images/2600_sad.png&#34;&gt;&lt;img src=&#34;https://www.rochester2600.com/images/2600_sad.png&#34; alt=&#34;2600&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;There will be no meeting this month an account of terrorism.. or because no one is going to be around. Join us next month for another action packed adventure.&lt;/p&gt;
 </description>
     </item>
     

@@ -6,8 +6,29 @@
     <description>Recent content in Home on Rochester 2600</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jul 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.rochester2600.com/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Meeting 7/7/2017 Spongebob Edition</title>
+      <link>https://www.rochester2600.com/home/07-07-2017/</link>
+      <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/home/07-07-2017/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;images/2600_spongebob.png&#34;&gt;&lt;img src=&#34;https://www.rochester2600.com/images/2600_spongebob.png&#34; alt=&#34;2600&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Rochester 2600 is going to devote some time to be a celebration of the
+state of infosec while we sip our drinks and look at a deeply sad
+comparison between Brian and demons . Here are the actual talks this
+month:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;AntiTree: This month in infosec&lt;/li&gt;
+&lt;li&gt;Pee: DNSSEC and Rage&lt;/li&gt;
+&lt;li&gt;Alex: Quantummy Ache&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Meeting 06/02/2017 RIT Edition</title>
@@ -330,26 +351,6 @@ talks:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;AntiTree: Next Generation Secure Operating Systems&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Meeting 4/1/2016: April Fools Edition</title>
-      <link>https://www.rochester2600.com/home/4-1-2016/</link>
-      <pubDate>Wed, 09 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.rochester2600.com/home/4-1-2016/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;images/2600_nelson.png&#34;&gt;&lt;img src=&#34;https://www.rochester2600.com/images/2600_nelson.png&#34; alt=&#34;2600&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;There will be a meeting on &lt;sup&gt;4&lt;/sup&gt;&amp;frasl;&lt;sub&gt;1&lt;/sub&gt;. It&amp;rsquo;s not an april fools joke but it is a joke, and it&amp;rsquo;s in April. This will be a hands on introduction to smart cards and OpenPGP along with our standard presentations.&lt;/p&gt;
-
-&lt;p&gt;Presentations:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;AntiTree: This month in infosec&lt;/li&gt;
-&lt;li&gt;Pee &amp;amp; Antitree: SmartCards, Nitrokeys, and how to store them in your butt.&lt;/li&gt;
-&lt;li&gt;TheStroudCloud: Deep Dive into Docker&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

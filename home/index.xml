@@ -6,8 +6,29 @@
     <description>Recent content in Home on Rochester 2600</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Aug 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.rochester2600.com/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Meeting 09/01/2017 Mayweather Edition</title>
+      <link>https://www.rochester2600.com/home/08-27-2017/</link>
+      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/home/08-27-2017/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;images/2600_mayweather.png&#34;&gt;&lt;img src=&#34;https://www.rochester2600.com/images/2600_mayweather.png&#34; alt=&#34;2600&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;For thos interested, the meeting this month is a slap in the face of
+dissapointment while we open up the forums to discuss a deeply sad
+comparison between Brian and nose hair . Here are the actual talks this
+month:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Someone: This month in infosec&lt;/li&gt;
+&lt;li&gt;Some Other guy: Look at me! Tizen!&lt;/li&gt;
+&lt;li&gt;Sum Guy: Let&amp;rsquo;s get Quantum Physical&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Meeting 08/04/2017 Antisec Edition</title>
@@ -316,26 +337,6 @@ talks:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;AntiTree: This month in infosec&lt;/li&gt;
 &lt;li&gt;Cowboi Joe: TheDAO of Ethereum&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Meeting 6/3/2016: Something Edition</title>
-      <link>https://www.rochester2600.com/home/6-3-2016/</link>
-      <pubDate>Fri, 27 May 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.rochester2600.com/home/6-3-2016/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;images/2600_nelson.png&#34;&gt;&lt;img src=&#34;https://www.rochester2600.com/images/2600_nelson.png&#34; alt=&#34;2600&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Join us to beat the heat. We are sorry to say that this month we will actualy have interesting presentations.&lt;/p&gt;
-
-&lt;p&gt;Presentations:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;AntiTree: This month in infosec&lt;/li&gt;
-&lt;li&gt;Jynik: Mouse Jacking via RF&lt;/li&gt;
-&lt;li&gt;AntiTree: Docker Security&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

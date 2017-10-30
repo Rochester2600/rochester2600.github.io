@@ -6,8 +6,28 @@
     <description>Recent content in Home on Rochester 2600</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Oct 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.rochester2600.com/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Meeting 11/03/2017 Rad Edition</title>
+      <link>https://www.rochester2600.com/home/11-03-2017/</link>
+      <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/home/11-03-2017/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;images/2600_rad.png&#34;&gt;&lt;img src=&#34;https://www.rochester2600.com/images/2600_rad.png&#34; alt=&#34;2600&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Welp. Time for another meeting. Come on down this month and see a slap
+in the face of security while we watch a parasitic gap construction.
+Thomas and Rust. Anyways, here&amp;rsquo;s the list of talks:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Antitree: This month in infosec&lt;/li&gt;
+&lt;li&gt;Joe: SSH&amp;rsquo;ing on your parade&lt;/li&gt;
+&lt;li&gt;Antitree: Tor Updates for 2049&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Meeting 10/06/2017 Thermite Day Edition</title>
@@ -318,27 +338,6 @@ Presentations this months include:&lt;/p&gt;
 &lt;li&gt;AntiTree: This month in infosec&lt;/li&gt;
 &lt;li&gt;AntiTree: ZCash: Shitcoin or Shitcoin?&lt;/li&gt;
 &lt;li&gt;Cowboi Joe: Look what I can do with Ethereum&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Meeting 8/5/2016: DEFCON 24 Edition</title>
-      <link>https://www.rochester2600.com/home/8-5-2016/</link>
-      <pubDate>Fri, 29 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.rochester2600.com/home/8-5-2016/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;images/2600_defcon24.png&#34;&gt;&lt;img src=&#34;https://www.rochester2600.com/images/2600_defcon24.png&#34; alt=&#34;2600&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Get ready for a slap in the face of pride and prejudice while we open up
-the forums to discuss a parasitic gap construction. Here is an agenda
-for the night:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;AntiTree: This month in infosec&lt;/li&gt;
-&lt;li&gt;Cowboi Joe: Ethereum is still a thing?&lt;/li&gt;
-&lt;li&gt;Alex: The State Of Home Automation&lt;/li&gt;
-&lt;li&gt;AntiTree: WiFi: It still sucks&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

@@ -6,8 +6,27 @@
     <description>Recent content on Rochester 2600</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Dec 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.rochester2600.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Meeting 01/06/2017 New Year 2018 Edition</title>
+      <link>https://www.rochester2600.com/home/01-06-2018/</link>
+      <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/home/01-06-2018/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;images/2600_newyear2018.png&#34;&gt;&lt;img src=&#34;https://www.rochester2600.com/images/2600_newyear2018.png&#34; alt=&#34;2600&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Attending a 2600 meeting this month means you will see a speed round
+about hacking much as our presenters share their knoweldge about a
+deeply sad comparison between angels and SDR . YOLO:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;All: This month in infosec&lt;/li&gt;
+&lt;li&gt;TBD&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Meeting 12/01/2017 Roo Edition</title>
@@ -367,54 +386,6 @@ consumed, and the presentations may be adult in nature. Be advised if you might 
 &lt;div align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.rochester2600.com/present/&#34;&gt;Full Screen&lt;/a&gt;&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;iframe src=&#34;https://www.rochester2600.com/present/index.html&#34; width=100% height=&#34;800&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Presentations</title>
-      <link>https://www.rochester2600.com/presentations/</link>
-      <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.rochester2600.com/presentations/</guid>
-      <description>&lt;p&gt;Below are some of the presentations that we have given in the past. The topics range from super technical deep dive, to silly pictures of cats. All are welcome to present even if it&amp;rsquo;s about a product you are developing or just a new tool.&lt;/p&gt;
-
-&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/3fpWFKTntRz3OF&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; 
-
-&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vSBOP3vF055ee_vGYUkBg7MnLy8fapxHk9tWHamNknshRhC_PgTOSt_R3zdgyhj7KfN6TEjpTLerwEW/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
-
-&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vQIaaoo9TWX5qAsZwVYEX4aU6Kw33MQQ42FbRLSlRaFjYYGr8oE-rFYGEMn9HjTa2LyG8yiY2gcSuYP/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
-
-&lt;iframe src=&#34;https://docs.google.com/presentation/d/1EFIuzT1T7J3GE_CoMgSZvL6aqbn0ezKMv4ymFCT55GQ/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;480&#34; height=&#34;389&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
-
-&lt;iframe src=&#34;https://docs.google.com/presentation/d/15N-KB--QQPMxxUssLkmn_c470ozh4IzZx6R9n9b0MpQ/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;480&#34; height=&#34;389&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
-
-&lt;iframe src=&#34;https://docs.google.com/presentation/d/1M2d6l9W4P1Gdiqgy4P2S0Q5RoHQtbPox-_CarIsVTTE/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;480&#34; height=&#34;299&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
-
-&lt;iframe src=&#34;https://docs.google.com/presentation/d/1IZ5ENctNE4IAoKqGLMJA5_eK2BcLZ2ibgWWBerz-ncw/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;480&#34; height=&#34;299&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
-
-&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/AHQAHBS0N8Ss3X&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; 
-
-&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/7aQZ6IDSvOwGLI&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; 
-
-&lt;!--&lt;iframe src=&#34;https://docs.google.com/presentation/d/1M4q1UZvGTqcIbWZEQyT6JkHEnMHaDQ9UF7jJD8vUuL0/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;595&#34; height=&#34;485&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;--&gt;
-
-&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/bu7Ef6842QHiVC&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt;
-
-&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/fa4i0q8jsxobm1&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt;
-
-&lt;iframe src=&#34;https://www.slideshare.net/slideshow/embed_code/key/5FLhmkL3jDfk6O&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
-
-&lt;iframe src=&#34;https://www.slideshare.net/slideshow/embed_code/key/kcEkkqWv48Luf5&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
-
-&lt;iframe src=&#34;https://www.slideshare.net/slideshow/embed_code/key/nMl8tSbRjopCpU&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
-
-&lt;iframe src=&#34;http://www.slideshare.net/slideshow/embed_code/29679039&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
-
-&lt;iframe src=&#34;http://www.slideshare.net/slideshow/embed_code/29748531&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
-
-&lt;iframe src=&#34;https://www.slideshare.net/slideshow/embed_code/key/gk7zndpLMDMFpH&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
-
-&lt;iframe src=&#34;http://www.slideshare.net/slideshow/embed_code/29748530&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>
     

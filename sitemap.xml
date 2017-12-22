@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.rochester2600.com/home/01-06-2018/</loc>
+    <lastmod>2017-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.rochester2600.com/home/12-01-2017/</loc>
     <lastmod>2017-11-17T00:00:00+00:00</lastmod>
   </url>
@@ -216,13 +221,13 @@
   
   <url>
     <loc>https://www.rochester2600.com/home/</loc>
-    <lastmod>2017-11-17T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.rochester2600.com/</loc>
-    <lastmod>2017-11-17T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

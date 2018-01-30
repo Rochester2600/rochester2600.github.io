@@ -2,12 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rochester 2600</title>
-    <link>https://www.rochester2600.com/index.xml</link>
+    <link>https://www.rochester2600.com/</link>
     <description>Recent content on Rochester 2600</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Dec 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.rochester2600.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.rochester2600.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meeting 02/02/2018 Spectre Edition</title>
+      <link>https://www.rochester2600.com/home/02-02-2018/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/home/02-02-2018/</guid>
+      <description>
+Join us this month for a exploration of power lifting while we take a look at implications of nostril hair on anger and mobile cybers . Presentations this months include:
+ Antitree: This month in infosec JRWR: Point of Shit System Pee: Autohate DNSSEC  </description>
+    </item>
     
     <item>
       <title>Meeting 01/05/2017 New Year 2018 Edition</title>
@@ -15,17 +28,9 @@
       <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.rochester2600.com/home/01-06-2018/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;images/2600_newyear2018.png&#34;&gt;&lt;img src=&#34;https://www.rochester2600.com/images/2600_newyear2018.png&#34; alt=&#34;2600&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Attending a 2600 meeting this month means you will see a speed round
-about hacking much as our presenters share their knoweldge about a
-deeply sad comparison between angels and SDR . YOLO:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;All: This month in infosec&lt;/li&gt;
-&lt;li&gt;TBD&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>
+Attending a 2600 meeting this month means you will see a speed round about hacking much as our presenters share their knoweldge about a deeply sad comparison between angels and SDR . YOLO:
+ All: This month in infosec TBD  </description>
     </item>
     
     <item>
@@ -34,21 +39,10 @@ deeply sad comparison between angels and SDR . YOLO:&lt;/p&gt;
       <pubDate>Fri, 17 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.rochester2600.com/home/12-01-2017/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;images/2600_roo.png&#34;&gt;&lt;img src=&#34;https://www.rochester2600.com/images/2600_roo.png&#34; alt=&#34;2600&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;NOTE: This month will be at RIT&amp;rsquo;s GCCIS building room 1400. That&amp;rsquo;s Building 070 GOL-1400. You can park in the lot closest to the building without a permit. See &lt;a href=&#34;https://www.rit.edu/fa/parking/parking&#34;&gt;RIT Parking Page&lt;/a&gt; for more specific information.&lt;/p&gt;
-
-&lt;p&gt;Wow. Big month. It&amp;rsquo;ll be a a very serious discussion about the
-information divide as we complain about problems of cryptography and
-headphones . I appologize in advance for the following talks:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Antitree: This month in infosec&lt;/li&gt;
-&lt;li&gt;Joe: SSH&amp;rsquo;ing on your parade&lt;/li&gt;
-&lt;li&gt;Antitree: Reports from the Radical Left&lt;/li&gt;
-&lt;li&gt;Antitree: Put this in your pip and smoke it&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>
+NOTE: This month will be at RIT&amp;rsquo;s GCCIS building room 1400. That&amp;rsquo;s Building 070 GOL-1400. You can park in the lot closest to the building without a permit. See RIT Parking Page for more specific information.
+Wow. Big month. It&amp;rsquo;ll be a a very serious discussion about the information divide as we complain about problems of cryptography and headphones . I appologize in advance for the following talks:
+ Antitree: This month in infosec Joe: SSH&amp;rsquo;ing on your parade Antitree: Reports from the Radical Left Antitree: Put this in your pip and smoke it  </description>
     </item>
     
     <item>
@@ -57,18 +51,9 @@ headphones . I appologize in advance for the following talks:&lt;/p&gt;
       <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.rochester2600.com/home/11-03-2017/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;images/2600_rad.png&#34;&gt;&lt;img src=&#34;https://www.rochester2600.com/images/2600_rad.png&#34; alt=&#34;2600&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Welp. Time for another meeting. Come on down this month and see a slap
-in the face of security while we watch a parasitic gap construction.
-Thomas and Rust. Anyways, here&amp;rsquo;s the list of talks:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Antitree: This month in infosec&lt;/li&gt;
-&lt;li&gt;Joe: SSH&amp;rsquo;ing on your parade&lt;/li&gt;
-&lt;li&gt;Antitree: Tor Updates for 2049&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>
+Welp. Time for another meeting. Come on down this month and see a slap in the face of security while we watch a parasitic gap construction. Thomas and Rust. Anyways, here&amp;rsquo;s the list of talks:
+ Antitree: This month in infosec Joe: SSH&amp;rsquo;ing on your parade Antitree: Tor Updates for 2049  </description>
     </item>
     
     <item>
@@ -77,20 +62,9 @@ Thomas and Rust. Anyways, here&amp;rsquo;s the list of talks:&lt;/p&gt;
       <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.rochester2600.com/home/10-6-2017/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;images/2600_thermite.png&#34;&gt;&lt;img src=&#34;https://www.rochester2600.com/images/2600_thermite.png&#34; alt=&#34;2600&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The First Friday 2600 meeting will be a time for awkward lack of eye
-contact as we chat about the state of infosec and its negative affect on
-the economy and talk about an oversimplified comparative anlaysis of
-mobile cybers and Washington . I appologize in advance for the following
-talks:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Someone: This month in infosec&lt;/li&gt;
-&lt;li&gt;Dr. Robo Alex: Let&amp;rsquo;s get Quantum Physical&lt;/li&gt;
-&lt;li&gt;Cowboy Joe: SSHH&amp;hellip; don&amp;rsquo;t tell anyone yet&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>
+The First Friday 2600 meeting will be a time for awkward lack of eye contact as we chat about the state of infosec and its negative affect on the economy and talk about an oversimplified comparative anlaysis of mobile cybers and Washington . I appologize in advance for the following talks:
+ Someone: This month in infosec Dr. Robo Alex: Let&amp;rsquo;s get Quantum Physical Cowboy Joe: SSHH&amp;hellip; don&amp;rsquo;t tell anyone yet  </description>
     </item>
     
     <item>
@@ -99,19 +73,9 @@ talks:&lt;/p&gt;
       <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.rochester2600.com/home/08-27-2017/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;images/2600_mayweather.png&#34;&gt;&lt;img src=&#34;https://www.rochester2600.com/images/2600_mayweather.png&#34; alt=&#34;2600&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;For thos interested, the meeting this month is a slap in the face of
-dissapointment while we open up the forums to discuss a deeply sad
-comparison between Brian and nose hair . Here are the actual talks this
-month:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Someone: This month in infosec&lt;/li&gt;
-&lt;li&gt;Some Other guy: Look at me! Tizen!&lt;/li&gt;
-&lt;li&gt;Sum Guy: Let&amp;rsquo;s get Quantum Physical&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>
+For thos interested, the meeting this month is a slap in the face of dissapointment while we open up the forums to discuss a deeply sad comparison between Brian and nose hair . Here are the actual talks this month:
+ Someone: This month in infosec Some Other guy: Look at me! Tizen! Sum Guy: Let&amp;rsquo;s get Quantum Physical  </description>
     </item>
     
     <item>
@@ -120,19 +84,9 @@ month:&lt;/p&gt;
       <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.rochester2600.com/home/07-24-2017/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;images/2600_antisec.png&#34;&gt;&lt;img src=&#34;https://www.rochester2600.com/images/2600_antisec.png&#34; alt=&#34;2600&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Get ready for a trist into unmitigated hate while we watch a size
-comparison of lean beef and pseudoscience . Presentations this months
-include:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;AntiTree: This month in infosec&lt;/li&gt;
-&lt;li&gt;TheQuantumJoeTesta: SSHit and FTPee&lt;/li&gt;
-&lt;li&gt;AntiTree: For your eyes only&lt;/li&gt;
-&lt;li&gt;GuestSpeaker: Look, I did something&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>
+Get ready for a trist into unmitigated hate while we watch a size comparison of lean beef and pseudoscience . Presentations this months include:
+ AntiTree: This month in infosec TheQuantumJoeTesta: SSHit and FTPee AntiTree: For your eyes only GuestSpeaker: Look, I did something  </description>
     </item>
     
     <item>
@@ -141,20 +95,9 @@ include:&lt;/p&gt;
       <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.rochester2600.com/home/07-07-2017/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;images/2600_spongebob.png&#34;&gt;&lt;img src=&#34;https://www.rochester2600.com/images/2600_spongebob.png&#34; alt=&#34;2600&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Rochester 2600 is going to devote some time to be a celebration of the
-state of infosec while we sip our drinks and look at a deeply sad
-comparison between Brian and demons . Here are the actual talks this
-month:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;AntiTree: This month in infosec&lt;/li&gt;
-&lt;li&gt;Pee: DNSSEC and Rage&lt;/li&gt;
-&lt;li&gt;Alex: Taking The Greenlight When You&amp;rsquo;re Not Given It&lt;/li&gt;
-&lt;li&gt;InvestigatorChic: DEFCON 25 Preview&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>
+Rochester 2600 is going to devote some time to be a celebration of the state of infosec while we sip our drinks and look at a deeply sad comparison between Brian and demons . Here are the actual talks this month:
+ AntiTree: This month in infosec Pee: DNSSEC and Rage Alex: Taking The Greenlight When You&amp;rsquo;re Not Given It InvestigatorChic: DEFCON 25 Preview  </description>
     </item>
     
     <item>
@@ -163,29 +106,9 @@ month:&lt;/p&gt;
       <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.rochester2600.com/home/06-02-2017/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;images/2600_rit.png&#34;&gt;&lt;img src=&#34;https://www.rochester2600.com/images/2600_rit.png&#34; alt=&#34;2600&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;UPDATE: Rochester 2600 will be hosted at RIT this month.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;Building 70 (GCCIS), Room 2500
-RIT, &amp;quot;Rochester&amp;quot;, NY
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Parking is permitted anytime after 6pm in front of the building. (Same as where BSidesROC was)&lt;/p&gt;
-
-&lt;p&gt;Rochester 2600 is going to devote some time to be a deep
-discussion of the information divide while we listen to implications of
-nostril hair on a depressed fourth grader and Jason&amp;rsquo;s lost soul . Agenda
-below:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;AntiTree: This month in infosec&lt;/li&gt;
-&lt;li&gt;AntiTree: The Atrocities of Gnome-Keyring&lt;/li&gt;
-&lt;li&gt;AntiTree: PWning every Kubernetes deployment. ever.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;(Sarcasticly generated by the autoblogging bot)&lt;/p&gt;
-</description>
+      <description>UPDATE: Rochester 2600 will be hosted at RIT this month.
+Building 70 (GCCIS), Room 2500 RIT, &amp;quot;Rochester&amp;quot;, NY  Parking is permitted anytime after 6pm in front of the building. (Same as where BSidesROC was)
+Rochester 2600 is going to devote some time to be a deep discussion of the information divide while we listen to implications of nostril hair on a depressed fourth grader and Jason&amp;rsquo;s lost soul .</description>
     </item>
     
     <item>
@@ -194,16 +117,9 @@ below:&lt;/p&gt;
       <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.rochester2600.com/home/5-5-2017/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;images/2600_onion.png&#34;&gt;&lt;img src=&#34;https://www.rochester2600.com/images/2600_onion.png&#34; alt=&#34;2600&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;2600 this month is a giant pile of prestigue as we appologize for common
-methods of destroying Bitcoin and T.O.R. . YOLO:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;AntiTree: This month in infosec&lt;/li&gt;
-&lt;li&gt;AntiTree: Tor Browser Bundle vs Firefox&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>
+2600 this month is a giant pile of prestigue as we appologize for common methods of destroying Bitcoin and T.O.R. . YOLO:
+ AntiTree: This month in infosec AntiTree: Tor Browser Bundle vs Firefox  </description>
     </item>
     
     <item>
@@ -212,16 +128,9 @@ methods of destroying Bitcoin and T.O.R. . YOLO:&lt;/p&gt;
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.rochester2600.com/home/04-07-2017/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;images/2600_bsidesroc2017.png&#34;&gt;&lt;img src=&#34;https://www.rochester2600.com/images/2600_bsidesroc2017.png&#34; alt=&#34;2600&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Get ready for a metric fuck-ton of pride and prejudice as we put our ear
-to the ground about a corpus of utterance tokens between hate and fear .
-This will be done via presentations below:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;AntiTree: This month in infosec&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>
+Get ready for a metric fuck-ton of pride and prejudice as we put our ear to the ground about a corpus of utterance tokens between hate and fear . This will be done via presentations below:
+ AntiTree: This month in infosec  </description>
     </item>
     
     <item>
@@ -230,20 +139,9 @@ This will be done via presentations below:&lt;/p&gt;
       <pubDate>Fri, 03 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.rochester2600.com/home/03-03-2017/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;images/2600_face.png&#34;&gt;&lt;img src=&#34;https://www.rochester2600.com/images/2600_face.png&#34; alt=&#34;2600&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Join us this month for a eye-brow raising thought exercise about Donald
-Trump&amp;rsquo;s hair throughout our meditation on a deeply sad comparison
-between DEFCON and Shmoocon . Agenda below:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;AntiTree: This month in infosec&lt;/li&gt;
-&lt;li&gt;CowboyJoe: NIST, Elliptical Curves, and Trust&lt;/li&gt;
-&lt;li&gt;AntiTree: The 2600 Industrial Intelligence Machine&lt;/li&gt;
-&lt;li&gt;JustBill: Infrastructure Improvements at Interlock&lt;/li&gt;
-&lt;li&gt;AntiTree: Identifying vulnerabilities in the tor network and tools&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>
+Join us this month for a eye-brow raising thought exercise about Donald Trump&amp;rsquo;s hair throughout our meditation on a deeply sad comparison between DEFCON and Shmoocon . Agenda below:
+ AntiTree: This month in infosec CowboyJoe: NIST, Elliptical Curves, and Trust AntiTree: The 2600 Industrial Intelligence Machine JustBill: Infrastructure Improvements at Interlock AntiTree: Identifying vulnerabilities in the tor network and tools  </description>
     </item>
     
     <item>
@@ -252,54 +150,8 @@ between DEFCON and Shmoocon . Agenda below:&lt;/p&gt;
       <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.rochester2600.com/about/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;https://www.rochester2600.com/images/2600bg.png&#34; alt=&#34;Rochester 2600&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;who-we-are&#34;&gt;Who we are&lt;/h2&gt;
-
-&lt;p&gt;2600 is a monthly meetup for those interested in information security, hacking, cracking, modding, and other various fun technologies. 2600 is also the organization that puts together &lt;a href=&#34;http://www.bsidesroc.com&#34;&gt;Security B-SidesROC&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;meetings&#34;&gt;Meetings&lt;/h2&gt;
-
-&lt;p&gt;Meetings occur the first Friday of every month and consist of presentations from people in the community. Presentations range from technical deep dives to simple talks about a new tool or service that&amp;rsquo;s been released. When talks run out and there is no more food or locks to be picked, we generally leave. This happens usually between 9 and 10pm.&lt;/p&gt;
-
-&lt;p&gt;Alcohol is sometimes
-consumed, and the presentations may be adult in nature. Be advised if you might be offended by this.&lt;/p&gt;
-
-&lt;h2 id=&#34;where&#34;&gt;Where&lt;/h2&gt;
-
-&lt;p&gt;All meetings occur at Interlock Rochester which is Door #7 of the Hungerford building at 1115 E. Main St, Rochester.&lt;/p&gt;
-
-&lt;p&gt;Parking is available all around the Hungerford Building. The building is filled with artists and designers who sometimes hold events. If you&amp;rsquo;re having trouble finding parking, here are some suggestions:&lt;/p&gt;
-
-&lt;iframe src=&#34;https://www.google.com/maps/d/u/0/embed?mid=1stLJJCJVxNg_4AVp5MJRi4-ykwI&#34; width=&#34;640&#34; height=&#34;480&#34;&gt;&lt;/iframe&gt;
-
-&lt;h2 id=&#34;who-attends-meeting&#34;&gt;Who attends meeting&lt;/h2&gt;
-
-&lt;p&gt;Some of the people that attend have careers in infosec, some are developers that are interested in what&amp;rsquo;s happening in security. Others are amateurs that think it&amp;rsquo;s fun to learn about technology from a security context. All are welcome that have an open mind.&lt;/p&gt;
-
-&lt;h2 id=&#34;should-i-bring-a-laptop&#34;&gt;Should I bring a laptop&lt;/h2&gt;
-
-&lt;p&gt;Yes. We offer free wifi through Interlock. Some of the presentations may be hands-on so having a system is a plus.&lt;/p&gt;
-
-&lt;h2 id=&#34;what-is-interlock&#34;&gt;What is Interlock&lt;/h2&gt;
-
-&lt;p&gt;Interlock Rochester is a hackerspace that was started to provide a space for groups like 2600 to present and hangout with like-minded folk. 2600 is a group that is hosted at Interlock and some Interlock members attend 2600 meetings, but the groups are mutually exclusive.&lt;/p&gt;
-
-&lt;h2 id=&#34;what-is-bsidesroc&#34;&gt;What is BSidesROC&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.bsidesroc.com&#34;&gt;BSidesROC&lt;/a&gt; or Security B-Sides Rochester, is a yearly hackercon that the folks at 2600 and the local hacker community throw every year. It is always free and open to the public and aims to share knowledge about security and the hacker community. Check out their website for more information or come to a 2600 meeting and ask.&lt;/p&gt;
-
-&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/roc2600&#34;&gt;@roc2600&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.meetup.com/Interlock-Rochester-Hackerspace&#34;&gt;Hackerspace Meetup&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://groups.google.com/forum/#!forum/rochester2600&#34;&gt;Mailing List&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;IRC: Freenode #interlock&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Who we are 2600 is a monthly meetup for those interested in information security, hacking, cracking, modding, and other various fun technologies. 2600 is also the organization that puts together Security B-SidesROC.
+Meetings Meetings occur the first Friday of every month and consist of presentations from people in the community. Presentations range from technical deep dives to simple talks about a new tool or service that&amp;rsquo;s been released. When talks run out and there is no more food or locks to be picked, we generally leave.</description>
     </item>
     
     <item>
@@ -308,26 +160,11 @@ consumed, and the presentations may be adult in nature. Be advised if you might 
       <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.rochester2600.com/contact/</guid>
-      <description>
-
-&lt;p&gt;Got something you want to say? You can reach us using social media, or our email below.&lt;/p&gt;
-
-&lt;p&gt;Email &lt;strong&gt;info (at) bsidesroc (dot) com&lt;/strong&gt; for any questions or comments.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h4 id=&#34;media-information&#34;&gt;Media Information&lt;/h4&gt;
-
-&lt;p&gt;If you are a member of the press and would like entry into the conference, please contact the media contact below to put your name on the list.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Mark Manning – Organizer&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;mark (at) bsidesroc (dot) com&lt;/li&gt;
-&lt;li&gt;PGP: 0B2C 9595 A8E0 3683 A81F  E3EE 68B1 A274 584F 01E8&lt;/li&gt;
-&lt;li&gt;Cell &amp;amp; Signal: 585.770.8392&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Got something you want to say? You can reach us using social media, or our email below.
+Email info (at) bsidesroc (dot) com for any questions or comments.
+Media Information If you are a member of the press and would like entry into the conference, please contact the media contact below to put your name on the list.
+Mark Manning – Organizer
+ mark (at) bsidesroc (dot) com PGP: 0B2C 9595 A8E0 3683 A81F E3EE 68B1 A274 584F 01E8 Cell &amp;amp; Signal: 585.</description>
     </item>
     
     <item>
@@ -336,38 +173,8 @@ consumed, and the presentations may be adult in nature. Be advised if you might 
       <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.rochester2600.com/cryptoparty/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;https://www.rochester2600.com/images/cryptoparty.png&#34; alt=&#34;Cryptoparty&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;what-is-a-cryptoparty&#34;&gt;What is a cryptoparty&lt;/h2&gt;
-
-&lt;p&gt;A Cryptoparty is a decentralized, global initiative to introduce the most basic cryptography software and the fundamental concepts of their operation to the general public, such as the Tor anonymity network, public key encryption (PGP/GPG), and OTR (Off The Record messaging). See the &lt;a href=&#34;https://www.cryptoparty.in&#34;&gt;Cryptoparty.is&lt;/a&gt; site for details on what other groups are doing.&lt;/p&gt;
-
-&lt;h2 id=&#34;rochester-cryptoparties&#34;&gt;Rochester Cryptoparties&lt;/h2&gt;
-
-&lt;p&gt;Rochester 2600 sometimes will throw a Cryptoparty. Check back on the &lt;a href=&#34;https://www.cryptoparty.in/rochester&#34;&gt;Rochester Cryptoparty Website&lt;/a&gt; to see when the next event is.&lt;/p&gt;
-
-&lt;h2 id=&#34;next-event-5-6-2016&#34;&gt;Next Event: 5/6/2016&lt;/h2&gt;
-
-&lt;p&gt;When: 5/6/2016&lt;/p&gt;
-
-&lt;p&gt;Where: Interlock Rochester (See &lt;a href=&#34;https://www.rochester2600.com/pages/about&#34;&gt;About Page&lt;/a&gt; for location details)&lt;/p&gt;
-
-&lt;p&gt;What: Agenda:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;5:30: Doors open&lt;/li&gt;
-&lt;li&gt;6:00: Cryptoparty introduction&lt;/li&gt;
-&lt;li&gt;6:15: Presentation: Next Generation Security Operating Systems by AntiTree&lt;/li&gt;
-&lt;li&gt;7:00: Hands on Q&amp;amp;A for Tor, Qubes, Subgraph, and GPG/OpenPGP&lt;/li&gt;
-&lt;li&gt;8:00: Shutdown. Rochester 2600 meeting starts&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://www.rochester2600.com/images/2600_cryptoparty.png&#34; alt=&#34;Cryptoparty May&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Print out this &lt;a href=&#34;https://www.rochester2600.com/images/2600_cryptoparty2.pdf&#34;&gt;Cryptoparty Flyer&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>What is a cryptoparty A Cryptoparty is a decentralized, global initiative to introduce the most basic cryptography software and the fundamental concepts of their operation to the general public, such as the Tor anonymity network, public key encryption (PGP/GPG), and OTR (Off The Record messaging). See the Cryptoparty.is site for details on what other groups are doing.
+Rochester Cryptoparties Rochester 2600 sometimes will throw a Cryptoparty. Check back on the Rochester Cryptoparty Website to see when the next event is.</description>
     </item>
     
     <item>
@@ -376,17 +183,317 @@ consumed, and the presentations may be adult in nature. Be advised if you might 
       <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.rochester2600.com/news/</guid>
+      <description>Our News Feed Below is our monthly news feed. It is aut-curated meaning that while we select what links we think are relevant, we have automated the summarizing of those links using a text algorithm. The feed also automatically installs a Giphy.com image based on the content. We are not responsible for the results, we just chose the URLs. :)
+Browse below or open it full screen: Full Screen</description>
+    </item>
+    
+    <item>
+      <title>Presentations</title>
+      <link>https://www.rochester2600.com/presentations/</link>
+      <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/presentations/</guid>
+      <description>Below are some of the presentations that we have given in the past. The topics range from super technical deep dive, to silly pictures of cats. All are welcome to present even if it&amp;rsquo;s about a product you are developing or just a new tool.
+          --          </description>
+    </item>
+    
+    <item>
+      <title>Meeting 2/3/2017 This Is Fine Edition</title>
+      <link>https://www.rochester2600.com/home/02-03-2017/</link>
+      <pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/home/02-03-2017/</guid>
+      <description>The First Friday 2600 meeting will be a time for us all to think about happiness in spite of our presenters disclosing their feelings on a sumo wrestle match between Bitcoin and power hungry dwarves . Well here it is:
+ AntiTree: This month in infosec TBD: Other presentations  (sarcastically generated by 2600gen bot)</description>
+    </item>
+    
+    <item>
+      <title>Meeting 1/6/2017 33C3 Edition</title>
+      <link>https://www.rochester2600.com/home/01-07-2017/</link>
+      <pubDate>Tue, 03 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/home/01-07-2017/</guid>
+      <description>Get ready for a hilarious examination of our feelings as we explore problems of power hungry dwarves and MongoDB . Here&amp;rsquo;s what you can expect:
+ AntiTree: This month in infosec Alex: What you can get into by saying you&amp;rsquo;re a journalist AntiTree: Android 7.1 Security AntiTree,Alex: Teufelsberg NSA Field Station AntiTree: Web Api Demo Jason: Nothing as always.  (sarcastically generated by 2600gen bot)</description>
+    </item>
+    
+    <item>
+      <title>Meeting 12/2/2016 Barret Brown Edition</title>
+      <link>https://www.rochester2600.com/home/12-2-2016/</link>
+      <pubDate>Sun, 27 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/home/12-2-2016/</guid>
+      <description>Get ready for a time for awkward lack of eye contact as we chat about mother/daughter relationships as we put in just the tip about a size comparison of balls and MongoDB . Gah. Whatever. Talks below:
+ AntiTree: This month in infosec AntiTree: Copperhead OS: Android With Security Alex: Image Processing NSFW Style Joe: TBA  (sarcastically generated by 2600gen bot)</description>
+    </item>
+    
+    <item>
+      <title>Meeting 11/4/2016 Y U No Talks Edition</title>
+      <link>https://www.rochester2600.com/home/11-4-2016/</link>
+      <pubDate>Wed, 26 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/home/11-4-2016/</guid>
+      <description>Attending a 2600 meeting this month means you will see a deep dive into monkeys and their relationships much as our presenters share their knoweldge about problems of balls and a depressed fourth grader . This will be done via presentations below:
+ AntiTree: This month in infosec AntiTree: This month in legal threats  (sarcastically generated by 2600gen bot)</description>
+    </item>
+    
+    <item>
+      <title>Meeting 10/7/2016 Donald Trump Edition</title>
+      <link>https://www.rochester2600.com/home/10-7-2016/</link>
+      <pubDate>Fri, 16 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/home/10-7-2016/</guid>
+      <description>The First Friday 2600 meeting will be a hilarious examination of the separation of church and state while we sip our drinks and look at which melts faster between two fluffy pillows and Andrew. Gah. Whatever. Talks below:
+ AntiTree: This month in infosec Jason: DEVOPs for dummies or how I learned to stop worrying about infosec and just script things for developers AntiTree: Tales Of Czech Support AntiTree: Android 7.</description>
+    </item>
+    
+    <item>
+      <title>Meeting 9/2/2016 Yawning Pidgeon Edition</title>
+      <link>https://www.rochester2600.com/home/9-2-2016/</link>
+      <pubDate>Tue, 16 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/home/9-2-2016/</guid>
       <description>
-
-&lt;h2 id=&#34;our-news-feed&#34;&gt;Our News Feed&lt;/h2&gt;
-
-&lt;p&gt;Below is our monthly news feed. It is aut-curated meaning that while we select what links we think are relevant, we have automated the summarizing of those links using a text algorithm. The feed also automatically installs a Giphy.com image based on the content. We are not responsible for the results, we just chose the URLs. :)&lt;/p&gt;
-
-&lt;p&gt;Browse below or open it full screen:
-&lt;div align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.rochester2600.com/present/&#34;&gt;Full Screen&lt;/a&gt;&lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;iframe src=&#34;https://www.rochester2600.com/present/index.html&#34; width=100% height=&#34;800&#34;&gt;&lt;/p&gt;
-</description>
+For thos interested, the meeting this month is a hilarious examination of our feelings as we dive head first into a corpus of utterance tokens upon which conformity has been defined by the paired utterance test. Presentations this months include:
+ AntiTree: This month in infosec AntiTree: ZCash: Shitcoin or Shitcoin? Cowboi Joe: Look what I can do with Ethereum  </description>
+    </item>
+    
+    <item>
+      <title>Meeting 8/5/2016: DEFCON 24 Edition</title>
+      <link>https://www.rochester2600.com/home/8-5-2016/</link>
+      <pubDate>Fri, 29 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/home/8-5-2016/</guid>
+      <description>
+Get ready for a slap in the face of pride and prejudice while we open up the forums to discuss a parasitic gap construction. Here is an agenda for the night:
+ AntiTree: This month in infosec Cowboi Joe: Ethereum is still a thing? Alex: The State Of Home Automation AntiTree: WiFi: It still sucks  </description>
+    </item>
+    
+    <item>
+      <title>Meeting 7/1/2016: Autogenerated Edition</title>
+      <link>https://www.rochester2600.com/home/7-1-2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/home/7-1-2016/</guid>
+      <description>
+Join us this month for a deep dive into anonymity much as our presenters share their knoweldge about a stipulation to place the constructions into these various categories. I appologize in advance for the following talks:
+ AntiTree: This month in infosec Cowboi Joe: TheDAO of Ethereum  </description>
+    </item>
+    
+    <item>
+      <title>Meeting 6/3/2016: Something Edition</title>
+      <link>https://www.rochester2600.com/home/6-3-2016/</link>
+      <pubDate>Fri, 27 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/home/6-3-2016/</guid>
+      <description>
+Join us to beat the heat. We are sorry to say that this month we will actualy have interesting presentations.
+Presentations:
+ AntiTree: This month in infosec Jynik: Mouse Jacking via RF AntiTree: Docker Security  </description>
+    </item>
+    
+    <item>
+      <title>Meeting 5/6/2016: Cryptoparty Edition</title>
+      <link>https://www.rochester2600.com/home/5-6-2016/</link>
+      <pubDate>Sat, 09 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/home/5-6-2016/</guid>
+      <description>This will be Rochester 2600&amp;rsquo;s first (and maybe only) cryptoparty. A Cryptoparty is a hands on workshop that teaches anyone about important security and cryptography tools you can use to protect yourself. There will be a focus this time around on OpenPGP/GPG and the new operating systems QubesOS and SubgraphOS.
+What you need to participate:
+ Laptop ideally with Linux installed on it Copy of your OpenPGP fingerprint Proof of identity  What you need to attend:</description>
+    </item>
+    
+    <item>
+      <title>Meeting 4/1/2016: April Fools Edition</title>
+      <link>https://www.rochester2600.com/home/4-1-2016/</link>
+      <pubDate>Wed, 09 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/home/4-1-2016/</guid>
+      <description>
+There will be a meeting on 4&amp;frasl;1. It&amp;rsquo;s not an april fools joke but it is a joke, and it&amp;rsquo;s in April. This will be a hands on introduction to smart cards and OpenPGP along with our standard presentations.
+Presentations:
+ AntiTree: This month in infosec Pee &amp;amp; Antitree: SmartCards, Nitrokeys, and how to store them in your butt. TheStroudCloud: Deep Dive into Docker  </description>
+    </item>
+    
+    <item>
+      <title>Meeting 3/4/2016: Unknown Edition</title>
+      <link>https://www.rochester2600.com/home/3-4-2016/</link>
+      <pubDate>Tue, 09 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/home/3-4-2016/</guid>
+      <description>
+There will be a meeting on 3&amp;frasl;4. Of what, we do not know. Who will be there we do not know. Will there be a presentation? Unknown.
+Presentations:
+ TBD TBA IDK  </description>
+    </item>
+    
+    <item>
+      <title>Meeting 2/5/2016: Black Elephant Edition</title>
+      <link>https://www.rochester2600.com/home/2-5-2016/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/home/2-5-2016/</guid>
+      <description>
+Black Elephant is our monthly holiday party where attendees come in an exchange the most horrible gifts possible. Please note this is not for the faint of heart. We will also have our monthly presentations along-side the gift exchange. Exchange is optional but again, be warned.
+Presentations:
+ G13: Sniffing your butt AntiTree: Shamir&amp;rsquo;s Secrets Algorythm: Nothing as always CowBoiJoe: &amp;ldquo;I can&amp;rsquo;t tell you because I would have to kill you&amp;rdquo; x56: Something To Disclose All: Black Elephant Gift Sharing  </description>
+    </item>
+    
+    <item>
+      <title>Meeting 1/1/2016: Cancelled</title>
+      <link>https://www.rochester2600.com/home/1-1-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/home/1-1-2016/</guid>
+      <description>There will be no meeting this month an account of terrorism.. or because no one is going to be around. Join us next month for another action packed adventure.</description>
+    </item>
+    
+    <item>
+      <title>Meeting 12/4/2015: Season Affected eDition</title>
+      <link>https://www.rochester2600.com/home/12-4-2015/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/home/12-4-2015/</guid>
+      <description>
+Join us for a S.A.D. meeting where we will discuss all of our sadness. Seasonal Affected eDition will also discuss some security related topics like the previous month. If you are sad or have SAD or took some Sad, make sure you call someone besides us, we can&amp;rsquo;t help.
+ antitree: This month in security and dogs /dev/urand: 5err challenge v2: bigger and sadder a1g0ry7hm: Freenet makes us sad g13: Something, maybe, depending, on how much Sad he took  </description>
+    </item>
+    
+    <item>
+      <title>Meeting 11/6/2015: Back To The Future Edition</title>
+      <link>https://www.rochester2600.com/home/11-6-2015/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/home/11-6-2015/</guid>
+      <description>
+We now live so far in the future that we don&amp;rsquo;t need roads. Join us as we fuel our minds with garbage at another 2600 meeting. (make sure you bring your hoverboards, self-lacing shoes, and metal hats!)
+ antitree: This month in infosec /dev/urand: 5err challenge a1g0ry7hm: inane babbling  </description>
+    </item>
+    
+    <item>
+      <title>Meeting 10/2/2015 Herdy Gurdy Edition</title>
+      <link>https://www.rochester2600.com/home/10-2-2015/</link>
+      <pubDate>Wed, 23 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/home/10-2-2015/</guid>
+      <description>
+The boys are back in town, the boys are back in town&amp;hellip; from DEFCON. Join us for another installment of 2600. Topics range from Canary Tokens and web security to what to do with 30 pounds of thermite.
+ AntiTree: This Month in Infosec History AHoll: TBA AntiTree: Canary Tokens AntiTree: Fun With Fiverr AntiTree: Twitter Api Silliness aLgoRYthm: JWT (and maybe a teeny bit on HTTP/2)  </description>
+    </item>
+    
+    <item>
+      <title>Meeting 9/4/2015 Yup Edtion</title>
+      <link>https://www.rochester2600.com/home/9-4-2015/</link>
+      <pubDate>Thu, 03 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/home/9-4-2015/</guid>
+      <description>
+Meeting this month. Yup.
+ Algorythm: TBA Alex: Important things of the month  </description>
+    </item>
+    
+    <item>
+      <title>Meeting 8/7/2015 Jeep Stunt Edition</title>
+      <link>https://www.rochester2600.com/home/8-7-2015/</link>
+      <pubDate>Mon, 03 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/home/8-7-2015/</guid>
+      <description>
+This month will be focuse on Jeep stunting. Everyone brings a Jeep that they bought, leased, or stolen and we will take turns driving it at 70 MPH until someone hacks us from Las Vegas. Other presentations include:
+ AntiTree: Months in review AntiTree: Hacked Team Overview Algorythm: List of things that you&amp;rsquo;re missing at DEFCON  </description>
+    </item>
+    
+    <item>
+      <title>Meeting 7/3/2015 Lemonade Edition</title>
+      <link>https://www.rochester2600.com/home/7-3-2015/</link>
+      <pubDate>Sat, 27 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/home/7-3-2015/</guid>
+      <description>
+Join us for Rochester 2600: Lemonade Edition. This meeting will pay tribute to all things lemonade related including revolve, eyeliner, and cause. This month&amp;rsquo;s talks include:
+ AntiTree: Month in review AntiTree: How To Hack: Those commands I shouldn&amp;rsquo;t tell you about AntiTree: Attacks via Python DNS server AntiTree: Sans Bullshit Cyber Sans  </description>
+    </item>
+    
+    <item>
+      <title>Meeting 6/5/2015 Beard Swimming Edition</title>
+      <link>https://www.rochester2600.com/home/6-5-2015/</link>
+      <pubDate>Wed, 03 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/home/6-5-2015/</guid>
+      <description>
+The month will entail testing out the new swim gear to cut down on the drag of your beard when you&amp;rsquo;re swimming. We&amp;rsquo;ll also talk about InfoSec stuff, probably.
+ AntiTree: Months in review Alex: Look at my Arduino Cell Phone AntiTree: USBKill AntiTree: BitCoin MultiSig AntiTree: BTCJam AntiTree: Astoria tor client AntiTree: OPSView at Interlock AntiTree: SpiderFoot, another recon system AntiTree: Introduction to NFMI Vince: TBA  </description>
+    </item>
+    
+    <item>
+      <title>Meeting 5/1/2015 Worst Of Edition</title>
+      <link>https://www.rochester2600.com/home/5-1-2015/</link>
+      <pubDate>Wed, 29 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/home/5-1-2015/</guid>
+      <description>
+This month will be a best-of/worst-of Rochester 2600. Presenters will bring out updates to some of our favorite talks. 2600 welcomes all our new friends from BSidesROC.
+ AntiTree: Months in review AntiTree: Lisbeth vs Bond: Corporate Spying JustBill: Ubiquity Wireless at Interlock Cowboijoe: TBA Algorythm: TBA Andrew: TBA  </description>
+    </item>
+    
+    <item>
+      <title>Meeting 4/3/2015 BSidesROC 2015 Edition</title>
+      <link>https://www.rochester2600.com/home/4-3-2015/</link>
+      <pubDate>Thu, 02 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/home/4-3-2015/</guid>
+      <description>
+Rochester 2600, the main organizer of Security B-SidesROC, we be having their last meeting before the event. Join us while we work on our projects, share random presentations, and discuss logistics of the event. All are welcome but this will not be a normal 2600 meeting
+ Algorythm: Postman AntiTree: Months in review AntiTree: Selenium and PhantomJS All: BSidesROC planning  </description>
+    </item>
+    
+    <item>
+      <title>Meeting 3/6/2015 Black Elephant Edition</title>
+      <link>https://www.rochester2600.com/home/3-6-2015/</link>
+      <pubDate>Mon, 16 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/home/3-6-2015/</guid>
+      <description>
+Now that the holidays are over, it&amp;rsquo;s time to have our own holiday event, 2600 style. Join us for a black elephant event of random gift exchange. Those participating should bring a random, useless gift that will be forced upon attendees. Particpation is not recommended.
+ AntiTree: Months in review AntiTree: NSA and VPNs Jynik: YateBTS AntiSeth: The Sony Hacks Timeline CowboiJoe: Social Engineering a Car All: Black Elephant Exchange  </description>
+    </item>
+    
+    <item>
+      <title>Meeting 2/6/2015 Random Edition</title>
+      <link>https://www.rochester2600.com/home/2-6-2015/</link>
+      <pubDate>Fri, 16 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/home/2-6-2015/</guid>
+      <description>Join us this month for a completely random edition of 2600. There are no planned presentations this month and people are free to hang out, chat, and share what you&amp;rsquo;re working on. Or not.</description>
+    </item>
+    
+    <item>
+      <title>Meeting 1/2/2015 Santa Claus Is Still Drunk Edition</title>
+      <link>https://www.rochester2600.com/home/1-2-2015/</link>
+      <pubDate>Mon, 29 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/home/1-2-2015/</guid>
+      <description>
+Bring in the new years with 2600 as we will meet up to discuss why we are all still wearing Santa outfits. Nothing says &amp;ldquo;screw it&amp;rdquo; more than refusing to take off your rum covered Saint Nick costume.
+ Jason: Monthly summary of infosec events TBA  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.rochester2600.com/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/home/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.rochester2600.com/present/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/present/</guid>
+      <description>Rochester 2600 Monthly Security News @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz); @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic); @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic); @font-face{ /*font-family:SansCyberSans; src:url(./SansCyberSans.ttf);*/ font-weight:normal } body, p, .remark-code, .remark-inline-code { font-family:SansCyberSans; font-variant-ligatures:common-ligatures; -webkit-font-feature-settings:&#34;liga&#34; 1, &#34;dlig&#34; 1; -moz-font-feature-settings:&#34;liga&#34; 1, &#34;dlig&#34; 1; -ms-font-feature-settings:&#34;liga&#34; 1, &#34;dlig&#34; 1;font-feature-settings:&#34;liga&#34; 1, &#34;dlig&#34; 1; } .remark-slides-area { background-position: &#39;bottom&#39;; } h1, h2, h3 { font-family: &#39;Yanone Kaffeesatz&#39;; font-weight: normal; } .footnote { position: absolute; top: 1em; right: 1em; } # .remark-code, .remark-inline-code { font-family: &#39;Ubuntu Mono&#39;; } .</description>
     </item>
     
   </channel>

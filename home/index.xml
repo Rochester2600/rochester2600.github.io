@@ -6,10 +6,32 @@
     <description>Recent content in Home on Rochester 2600</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.rochester2600.com/home/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Meeting 04/06/2018 Fuck Ajit Pai Edition</title>
+      <link>https://www.rochester2600.com/home/2018-04-07/</link>
+      <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/home/2018-04-07/</guid>
+      <description>
+2600 this month is a a solumn discussion of power lifting while we listen to the strength of Shmoocon and Brian . Here is an agenda for the night:
+ All: This month in infosec AntiTree: Pentesting Devops  </description>
+    </item>
+    
+    <item>
+      <title>Meeting 03/02/2018 Max Headroom Edition</title>
+      <link>https://www.rochester2600.com/home/03-02-2018/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/home/03-02-2018/</guid>
+      <description>
+2600 this month is a a very serious discussion about dogs while we listen to the strength of Bitcoin and predictive crystals . I appologize in advance for the following talks:
+ All: This month in infosec TBD  </description>
+    </item>
     
     <item>
       <title>Meeting 02/02/2018 Spectre Edition</title>
@@ -18,7 +40,7 @@
       
       <guid>https://www.rochester2600.com/home/02-02-2018/</guid>
       <description>
-Join us this month for a exploration of power lifting while we take a look at implications of nostril hair on anger and mobile cybers . Presentations this months include:
+Join us this month for a exploration of power lifting while we take a look at implications of nostril hair on anger and mobile cybers. Presentations this months include:
  Antitree: This month in infosec JRWR: Point of Shit System Pee: Autohate DNSSEC  </description>
     </item>
     

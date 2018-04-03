@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.rochester2600.com/home/2018-04-07/</loc>
+    <lastmod>2018-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.rochester2600.com/home/03-02-2018/</loc>
+    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.rochester2600.com/home/02-02-2018/</loc>
     <lastmod>2018-01-30T00:00:00+00:00</lastmod>
   </url>
@@ -232,13 +242,13 @@
   
   <url>
     <loc>https://www.rochester2600.com/home/</loc>
-    <lastmod>2018-01-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.rochester2600.com/</loc>
-    <lastmod>2018-01-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

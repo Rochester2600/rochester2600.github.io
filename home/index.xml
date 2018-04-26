@@ -6,10 +6,21 @@
     <description>Recent content in Home on Rochester 2600</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.rochester2600.com/home/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Meeting 05/04/2018 Octopuss Edition</title>
+      <link>https://www.rochester2600.com/home/05-04-2018/</link>
+      <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/home/05-04-2018/</guid>
+      <description>
+Join us this month for a giant pile of Donald Trump much as our presenters share their knoweldge about a deep look at cloud and depressed goth kids . These are actually the talks we have scheduled:
+ All: This month in infosec AntiTree: DNS Privacy Technologies Forrest: BSidesROC CTF Year in Review  </description>
+    </item>
     
     <item>
       <title>Meeting 04/06/2018 Fuck Ajit Pai Edition</title>

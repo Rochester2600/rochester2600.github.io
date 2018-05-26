@@ -6,10 +6,21 @@
     <description>Recent content in Home on Rochester 2600</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.rochester2600.com/home/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Meeting 06/01/2018 GDPR Edition</title>
+      <link>https://www.rochester2600.com/home/2018-06-01/</link>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/home/2018-06-01/</guid>
+      <description>
+The First Friday 2600 meeting will be a a solumn discussion of Donald Trump as we put our ear to the ground about a deeply sad comparison between fear and Dan Kaminski . These are actually the talks we have scheduled:
+ All: This month in infosec Chaim: Why Specifical GDPR Is Difficult  </description>
+    </item>
     
     <item>
       <title>Meeting 05/04/2018 Octopuss Edition</title>

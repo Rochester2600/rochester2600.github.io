@@ -6,10 +6,21 @@
     <description>Recent content on Rochester 2600</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.rochester2600.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Meeting 09/07/2018 devops Edition</title>
+      <link>https://www.rochester2600.com/home/2018-08-17/</link>
+      <pubDate>Sat, 18 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/home/2018-08-17/</guid>
+      <description>
+Join us this month for a hilarious examination of George Bush throughout our meditation on the effects ridilin has on power hungry dwarves and Penfield . These are actually the talks we have scheduled:
+ All: This month in infosec AntiTree: Securing a Secure Secure Shell Geo4a: Spinning Up OSQuery in AWS  </description>
+    </item>
     
     <item>
       <title>Meeting 08/03/2018 DEF CON Edition</title>

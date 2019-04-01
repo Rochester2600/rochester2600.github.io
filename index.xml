@@ -6,10 +6,21 @@
     <description>Recent content on Rochester 2600</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.rochester2600.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Meeting 04/05/2019 Pee Edition</title>
+      <link>https://www.rochester2600.com/home/2019-04-01/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/home/2019-04-01/</guid>
+      <description>Warning: For the first month ever, Rochester 2600 is doing a non-sarcastic blog post.
+This coming month&amp;rsquo;s meeting is Pee Edition in memorium to our good friend Paul (PEE) who passed away in the previous month. Pee had been involved with 2600, Interlock, Security B-Sides Rochester and tons of other groups but mostly just a friend to all.
+We&amp;rsquo;re still holding an open meeting. Please join. We&amp;rsquo;ll go through the monthly infosec news and try to make the same sarcastic comments that he would have.</description>
+    </item>
     
     <item>
       <title>Meeting 03/01/2019 Goat Edition</title>

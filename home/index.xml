@@ -6,10 +6,20 @@
     <description>Recent content in Home on Rochester 2600</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.rochester2600.com/home/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Meeting 10/04/2019 RSS 2019 Edition</title>
+      <link>https://www.rochester2600.com/home/2019-10-01/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rochester2600.com/home/2019-10-01/</guid>
+      <description>Join us this month where we put on a good face and welcome new guests from the Rochester Security Summit. Please join us at Interlock Rochester at 7pm where we&amp;rsquo;ll be hanging out at the Hackerspace and discussing security news with the group.
+Also please note that after 10 years, Interlock Rochester is trying to raise money to help support the space or shut its doors at the end of the month.</description>
+    </item>
     
     <item>
       <title>Meeting 09/06/2019 Small Keanu Edition</title>

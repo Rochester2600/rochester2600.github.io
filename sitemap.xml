@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.rochester2600.com/home/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.rochester2600.com/home/2019-10-01/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.rochester2600.com/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.rochester2600.com/home/2019-09-01/</loc>
     <lastmod>2019-08-22T00:00:00+00:00</lastmod>
   </url>
@@ -314,32 +329,20 @@
   
   <url>
     <loc>https://www.rochester2600.com/home/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.rochester2600.com/present/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.rochester2600.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.rochester2600.com/home/</loc>
-    <lastmod>2019-08-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.rochester2600.com/</loc>
-    <lastmod>2019-08-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.rochester2600.com/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
